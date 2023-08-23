@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "adaptive-markets-financial-market-dynamics-and-human-behavior"
+  },
+  "course_title": "Adaptive Markets: Financial Market Dynamics and Human Behavior",
+  "hide_download": false,
+  "course_description": "Economists can\u2019t agree on whether investors and markets are rational and efficient, as modern financial theory assumes, or irrational and inefficient, as behavioral economists believe. In this course, MIT finance professor Andrew W. Lo cuts through this debate with a new framework\u2014the Adaptive Markets Hypothesis\u2014in which rationality and irrationality coexist.\n\nWhen markets are unstable, investors react instinctively, creating inefficiencies for others to exploit. Drawing on psychology, evolutionary biology, neuroscience, artificial intelligence, and other fields, this course shows that the theory of market efficiency isn\u2019t wrong, but merely incomplete.",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "15.481",
+  "primary_course_number": "15.481x",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "adaptive-markets-financial-market-dynamics-and-human-behavior"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Tutorial Videos"
+  ],
+  "site_uid": "67528658-4da5-497d-a590-bcac237658fb",
+  "site_short_id": "15.481x-fall-2021"
+}
