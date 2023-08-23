@@ -7,7 +7,16 @@
   "topics": [
     [
       "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
       "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
     ]
   ],
   "legacy_uid": "",
@@ -18,7 +27,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "7c3b37ae-3c87-4b63-ab2b-c6a81823609c",
     "website": "adaptive-markets-financial-market-dynamics-and-human-behavior"
   },
   "course_title": "Adaptive Markets: Financial Market Dynamics and Human Behavior",
