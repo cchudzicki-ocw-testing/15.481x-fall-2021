@@ -7,10 +7,10 @@ file_size: 54655
 file_type: image/png
 image_metadata:
   caption: In this course, you'll learn about the limits to rationality and market
-    efficiency, and the adaptive nature of markets; psychological, neuroscientific,
-    and evolutionary foundations of human behavior; the formulation of the Adaptive
-    Markets Hypothesis (AMH) and its applications to hedge funds, the 2008 Financial
-    Crisis, and COVID-19, as well as its ethical implications and high-impact applications.
+    efficiency, the adaptive nature of markets, psychological, neuroscientific, and
+    evolutionary foundations of human behavior, and the formulation of the Adaptive
+    Markets Hypothesis (AMH) with its applications to hedge funds, the 2008 financial
+    crisis, and COVID-19, as well as its ethical implications and high-impact applications.
   credit: ''
   image-alt: Silouettes of the evolution of man from ape to modern human with U.S.
     paper money in the background.
