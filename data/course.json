@@ -48,7 +48,8 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Tutorial Videos"
+    "Tutorial Videos",
+    "Problem Sets with Solutions"
   ],
   "site_uid": "67528658-4da5-497d-a590-bcac237658fb",
   "site_short_id": "15.481x-fall-2021"
