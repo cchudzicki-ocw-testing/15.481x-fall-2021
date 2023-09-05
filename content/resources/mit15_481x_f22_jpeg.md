@@ -6,9 +6,15 @@ file: /courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-beha
 file_size: 80049
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: 'In this course, you''ll learn about the limits to rationality and market
+    efficiency, the adaptive nature of markets, psychological, neuroscientific, and
+    evolutionary foundations of human behavior, and the formulation of the Adaptive
+    Markets Hypothesis (AMH) with its applications to hedge funds, the 2008 financial
+    crisis, and COVID-19, as well as its ethical implications and high-impact applications.
+    (Image is in the public domain. License: CC0.)'
   credit: ''
-  image-alt: ''
+  image-alt: Laptop computer displaying chart representing financial risk in trading
+    assets in the marketplace.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
